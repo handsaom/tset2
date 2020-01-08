@@ -5,5 +5,6 @@ public class Test1 {
 		String s="abc";
 		int a=10;	
 		String s1="abc";
+		int b=11;
 	}
 }
