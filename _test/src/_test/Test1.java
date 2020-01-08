@@ -8,5 +8,6 @@ public class Test1 {
 		int c=520;
 		int b=11;
 		System.out.println(b);
+		System.out.println(a);
 	}
 }
