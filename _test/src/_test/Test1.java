@@ -9,5 +9,6 @@ public class Test1 {
 		int b=11;
 		System.out.println(a);
 		System.out.println(c);
+		System.out.println("Œ“∫√Àß");
 	}
 }
