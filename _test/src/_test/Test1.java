@@ -7,5 +7,6 @@ public class Test1 {
 		String s1="abc";
 		int c=520;
 		int b=11;
+		System.out.println(a);
 	}
 }
